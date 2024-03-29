@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaSehomework/LeetCodeDynamic programming/LeetCodeDynamic programming.iml" filepath="$PROJECT_DIR$/JavaSehomework/LeetCodeDynamic programming/LeetCodeDynamic programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSehomework/LeetcodeInterview100/LeetcodeInterview100.iml" filepath="$PROJECT_DIR$/JavaSehomework/LeetcodeInterview100/LeetcodeInterview100.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSehomework/chapter06_oop1/chapter06_oop1.iml" filepath="$PROJECT_DIR$/JavaSehomework/chapter06_oop1/chapter06_oop1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSehomework/chapter07_oop2/chapter07_oop2.iml" filepath="$PROJECT_DIR$/JavaSehomework/chapter07_oop2/chapter07_oop2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSehomework/chapter08_oop3/chapter08_oop3.iml" filepath="$PROJECT_DIR$/JavaSehomework/chapter08_oop3/chapter08_oop3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSehomework/chapter09_exception/chapter09_exception.iml" filepath="$PROJECT_DIR$/JavaSehomework/chapter09_exception/chapter09_exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSehomework/chapter10_thread/chapter10_thread.iml" filepath="$PROJECT_DIR$/JavaSehomework/chapter10_thread/chapter10_thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSehomework/chapter11_api/chapter11_api.iml" filepath="$PROJECT_DIR$/JavaSehomework/chapter11_api/chapter11_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSehomework/chapter12_collection_map/chapter12_collection_map.iml" filepath="$PROJECT_DIR$/JavaSehomework/chapter12_collection_map/chapter12_collection_map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSehomework/chapter13_generic/chapter13_generic.iml" filepath="$PROJECT_DIR$/JavaSehomework/chapter13_generic/chapter13_generic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSehomework/chapter14_datastructure/chapter14_datastructure.iml" filepath="$PROJECT_DIR$/JavaSehomework/chapter14_datastructure/chapter14_datastructure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSehomework/chapter15_io/chapter15_io.iml" filepath="$PROJECT_DIR$/JavaSehomework/chapter15_io/chapter15_io.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSehomework/chapter16_net/chapter16_net.iml" filepath="$PROJECT_DIR$/JavaSehomework/chapter16_net/chapter16_net.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSehomework/chapter17_reflect/chapter17_reflect.iml" filepath="$PROJECT_DIR$/JavaSehomework/chapter17_reflect/chapter17_reflect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSehomework/chapter18_features/chapter18_features.iml" filepath="$PROJECT_DIR$/JavaSehomework/chapter18_features/chapter18_features.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/javaAtguiau.iml" filepath="$PROJECT_DIR$/.idea/javaAtguiau.iml" />
+    </modules>
+  </component>
+</project>
